@@ -2,7 +2,7 @@
 title:               Lazy Loading AB
 tagline:             ''
 description:         'Lazy Loading AB - Software development'
-url:                 https://wwww.lazyloading.se
+url:                 https://lazyloading-ab.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Erik Pettersson
-  url:               https://wwww.lazyloading.se
+  url:               https://lazyloading-ab.github.io
   email:             erik@lazyloading.se
 
 # Gems
