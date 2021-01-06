@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Lazy Loading AB
 ---
 
 ## History
@@ -27,4 +27,3 @@ Projects developed and operated by us:
 Want to get in contact? Feel free to [send us an email](mailto:erik@lazyloading.se).
 
 Thanks!
-Erik 
