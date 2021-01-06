@@ -1,0 +1,22 @@
+# Setup
+title:               Lazy Loading AB
+tagline:             ''
+description:         'Lazy Loading AB - Software development'
+url:                 https://wwww.lazyloading.se
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Erik Pettersson
+  url:               https://wwww.lazyloading.se
+  email:             erik@lazyloading.se
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
