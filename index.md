@@ -9,7 +9,7 @@ Software company founded by Erik Pettersson in 2020. We do software development,
 
 ## Tech stack
 
-Some of the technoly we like to us
+Some of the technology we like to us
 
 * Backend: Java, Go
 * Databases: Postgres & Mysql
@@ -21,7 +21,7 @@ Some of the technoly we like to us
 
 Projects developed and operated by us:
 
-* [Dreamwod](https://wwww.dreamwod.app) - Crossfit / functional fitness app for gyms and athletes.  
+* [Dreamwod](https://www.dreamwod.app) - Crossfit / functional fitness app for gyms, crossfit programmers and athletes.  
 
 
 Want to get in contact? Feel free to [send us an email](mailto:erik@lazyloading.se).
