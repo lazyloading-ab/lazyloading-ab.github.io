@@ -22,7 +22,12 @@ Some of the technology we like to use
 Projects developed and operated by us:
 
 * [Dreamwod](https://www.dreamwod.app) - Crossfit / functional fitness app for gyms, crossfit programmers and athletes.  
-* [Dreamwod tech blog](https://medium.com/dreamwod-tech) - Tech blog about everything 
+* [Dreamwod tech blog](https://medium.com/dreamwod-tech) - Tech blog about everything
+
+Consultancy services:
+
+* [Mendi](https://www.mendi.io) - Consultancy services with Golang, GCP, Mysql, signal processing.     
+
 
 ## Previous projects
 * [Stravito](https://www.stravito.com) - Consultancy services with Kotlin, Elastic Search, Terraform, Postgres, AWS. 
