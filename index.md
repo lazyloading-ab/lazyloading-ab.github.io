@@ -30,6 +30,6 @@ Some of the technology I like to use,
 * [Stravito](https://www.stravito.com) - Consultancy services with Kotlin, Elastic Search, Terraform, Postgres, AWS. 
 * [Tink](https://www.tink.com) - Java, Mysql, Cassandra, Kafka, AWS, K8s and a lot of other things. Employee number 10.  
 
-Want to get in contact? Feel free to [send an email to erik@lazyloading.se](mailto:erik@lazyloading.se).
+Want to get in contact? Feel free to send an email to [erik@lazyloading.se](mailto:erik@lazyloading.se).
 
 Thanks!
