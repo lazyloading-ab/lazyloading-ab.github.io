@@ -32,6 +32,6 @@ Some of the technology I like to use,
 
 Want to get in contact? Feel free to send an email to [erik@lazyloading.se](mailto:erik@lazyloading.se). 
 
-LinkedIn: https://www.linkedin.com/in/eripet/ 
+LinkedIn: [https://www.linkedin.com/in/eripet/](https://www.linkedin.com/in/eripet/) 
 
 Thanks!
