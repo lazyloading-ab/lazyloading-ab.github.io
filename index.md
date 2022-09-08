@@ -8,6 +8,8 @@ title: Erik Pettersson
 Software consultant with 10+ years experience with a particular focus on backend
 engineering and data science. Built high performance systems for Fintech, Online Gambling, Intellectual Property and Digital Media industries.
 
+Worked as a freelance consultant for the last 3.5 years. 
+
 ## Tech stack 
 
 Some of the technology I like to use 💘,
