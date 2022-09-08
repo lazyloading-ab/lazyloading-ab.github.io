@@ -17,7 +17,6 @@ Some of the technology I like to use 💘,
 * Apps: Flutter
 * Web: React
 * Cloud: AWS and GCP
-* Other: Kafka, Terraform, Kubernetes
 
 ## Most recent projects
 * [Dreamwod](https://www.dreamwod.app) 🏋️‍♂️ - Crossfit / functional fitness app for gyms and athletes.
