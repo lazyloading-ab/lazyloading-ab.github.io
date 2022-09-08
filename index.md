@@ -21,16 +21,16 @@ Some of the technology I like to use 💘,
 ## Most recent projects
 * [Dreamwod](https://www.dreamwod.app) 🏋️‍♂️ - Crossfit / functional fitness app for gyms and athletes.
   * **Role**: Founder, architect, full stack developer. 
-  * **Skills**: Go, Flutter, React, GCP    
+  * **Tech**: Go, Flutter, React, GCP    
 * [Mendi](https://www.mendi.io) 🧠  - Brain health / brain training product
   * **Role**: Interim tech lead, leading the development of the apps and backend. 
-  * **Skills**: Go, MongoDB, GCP, Signal processing    
+  * **Tech**: Go, MongoDB, GCP, Signal processing    
 * [Stravito](https://www.stravito.com) 🔎 - Research and knowledge SaaS product
   * **Role**: Teach lead / backend developer. 
-  * **Skills**: Kotlin, Elastic Search, Terraform, Postgres, AWS. 
+  * **Tech**: Kotlin, Elastic Search, Terraform, Postgres, AWS. 
 * [Tink](https://www.tink.com) 💸 - Fintech company
   * **Role**: Multiple roles for example Tech lead and Backend Chapter lead. Employee ~10.     
-  * **Skills**: Java, Mysql, Cassandra, Kafka, AWS, K8s and a lot of other things.   
+  * **Tech**: Java, Mysql, Cassandra, Kafka, AWS, K8s and a lot of other things.   
 
 ## Other
 * [Dreamwod tech blog](https://medium.com/dreamwod-tech) - My tech blog for Dreamwod. 
