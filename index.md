@@ -21,6 +21,8 @@ Some of the technology I like to use 💘,
 * Cloud: AWS and GCP
 
 ## Most recent projects
+* [Apple](https://www.apple.com) Senior Software Engineer (Consultant).
+  * **Tech**: N/A. 
 * [Dreamwod](https://www.dreamwod.app) 🏋️‍♂️ - Crossfit / functional fitness app for gyms and athletes.
   * **Role**: Founder, architect, full stack developer. 
   * **Tech**: Go, Flutter, React, GCP    
