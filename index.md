@@ -5,27 +5,28 @@ title: Erik Pettersson
 
 ## About 
 
-Software consultant with 10+ years experience with a particular focus on backend
+Software consultant with 12+ years experience with a particular focus on backend
 engineering and data science. Built high performance systems for Fintech, Online Gambling, Intellectual Property and Digital Media industries.
 
-Worked as a freelance consultant for the last 3.5 years. 
+Worked as a freelance consultant for the last 4 years. 
 
 ## Tech stack 
 
-Some of the technology I like to use 💘,
+Some of the technology I like to use,
 
 * Backend: Go, Java
 * Databases: PostgreSQL & MySQL
 * Apps: Flutter
-* Web: React
+* Web: React, Next.js
 * Cloud: AWS and GCP
 
 ## Most recent projects
 * [Apple](https://www.apple.com) Senior Software Engineer (Consultant).
-  * **Tech**: N/A. 
+  * **Role**: Full stack developer. 
+  * **Tech**: N/A
 * [Dreamwod](https://www.dreamwod.app) 🏋️‍♂️ - Crossfit / functional fitness app for gyms and athletes.
   * **Role**: Founder, architect, full stack developer. 
-  * **Tech**: Go, Flutter, React, GCP    
+  * **Tech**: Go, Flutter, React, Next.js, GCP    
 * [Mendi](https://www.mendi.io) 🧠  - Brain health / brain training product
   * **Role**: Interim tech lead, leading the development of the apps and backend. 
   * **Tech**: Go, MongoDB, GCP, Signal processing    
