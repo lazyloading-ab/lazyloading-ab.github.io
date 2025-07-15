@@ -39,7 +39,7 @@ Some of the technology I like to use,
 
 ## Other
 * [Dreamwod tech blog](https://medium.com/dreamwod-tech) - My tech blog for Dreamwod. 
-* [Github](https://github/eripe970)
+* [Github](https://github.com/eripe970)
 * [LinkedIn](https://www.linkedin.com/in/eripet/) 
 
 Want to get in contact? Feel free to send an email to [erik@lazyloading.se](mailto:erik@lazyloading.se). 
