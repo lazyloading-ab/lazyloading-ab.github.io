@@ -21,7 +21,7 @@ Some of the technology I like to use,
 * Cloud: AWS and GCP
 
 ## Most recent projects
-* Weightlifing Clinic - A prototype for AI-powered personal weightlifting coaching.  
+* [Weightlifing Clinic]([url](https://weightlifting-clinic.com)) - A prototype for AI-powered personal weightlifting coaching.  
   * **Role**: Full stack developer, backend, app and ML stack. A proof of concept for video analyzing of olympic weightlifting lifts. 
   * **Tech**: Go/YOLO/Flutter
 * [Apple](https://www.apple.com) Senior Software Engineer (Consultant).
