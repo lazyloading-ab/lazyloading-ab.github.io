@@ -5,10 +5,10 @@ title: Erik Pettersson
 
 ## About 
 
-Software consultant with 12+ years experience with a particular focus on backend
+Software consultant with 16+ years experience with a particular focus on backend
 engineering and data science. Built high performance systems for Fintech, Online Gambling, Intellectual Property and Digital Media industries.
 
-Worked as a freelance consultant for the last 4 years. 
+Worked as a freelance consultant for the last 6 years but have now joined Solva Technology as Founding Engineer. 
 
 ## Tech stack 
 
@@ -21,6 +21,9 @@ Some of the technology I like to use,
 * Cloud: AWS and GCP
 
 ## Most recent projects
+* [Solva Technology](https://www.solvatechnology.com) Founding Engineer.
+  * **Role**: Founding Engineer. 
+  * **Tech**: Golang, GCP, Next.js, ML, AI
 * [Weightlifing Clinic](https://weightlifting-clinic.com) - A prototype for AI-powered personal weightlifting coaching.  
   * **Role**: Full stack developer, backend, app and ML stack. A proof of concept for video analyzing of olympic weightlifting lifts. 
   * **Tech**: Go/YOLO/Flutter
