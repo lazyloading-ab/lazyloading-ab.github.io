@@ -556,3 +556,30 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ * Profile photo
+ */
+
+.profile-photo {
+  float: right;
+  width: 150px;
+  margin: 0 0 1rem 1rem;
+}
+
+/*
+ * Experience section styling
+ */
+
+/* Less space between role title and bullets */
+.page > p,
+.post > p {
+  margin-bottom: 0.25rem;
+}
+
+/* More space after each role's bullet list */
+.page > ul,
+.post > ul {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
