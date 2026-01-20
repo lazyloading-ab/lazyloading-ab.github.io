@@ -6,11 +6,11 @@ layout: page
 
 <img src="/public/erik.jpg" alt="Erik Pettersson" class="profile-photo">
 
-I'm a fullstack engineer who's spent 16+ years building systems that need to actually work at scale. Early employee at Tink where I helped grow the engineering team and led payments infrastructure. Shipped code at Apple. Built Dreamwod from scratch as a solo founder.
+Fullstack engineer with 16+ years building scalable systems. Recently designed AI workflows and pipelines at Solva (Y Combinator). Early employee at Tink (acquired by Visa for $2.2B), shipped backend services handling billions of requests at Apple, built Dreamwod as a solo founder.
 
 I care about both ends: clean APIs and reliable infrastructure, but also the UX details that make products enjoyable to use.
 
-I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow. Based in Stockholm.
+I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow.
 
 ## Experience
 
