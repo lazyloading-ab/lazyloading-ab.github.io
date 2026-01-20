@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About
+## Erik Pettersson
 
 <img src="/public/erik.jpg" alt="Erik Pettersson" class="profile-photo">
 
