@@ -40,6 +40,6 @@ I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow. Ba
 
 **[Weightlifting Clinic](https://weightlifting-clinic.com)** - AI-powered personal weightlifting coaching prototype. Video analysis of olympic lifts using computer vision. Tech: Go, YOLO, Flutter.
 
-## Contact
+## Connect
 
-[Email](mailto:erik@lazyloading.se) · [LinkedIn](https://www.linkedin.com/in/eripet/) · [GitHub](https://github.com/eripe970) · [Blog](https://medium.com/dreamwod-tech)
+[Email](mailto:erik@lazyloading.se) · [LinkedIn](https://www.linkedin.com/in/eripet/) · [GitHub](https://github.com/eripe970) · [Blog](https://medium.com/dreamwod-tech) · [CV (PDF)](/cv/erik_pettersson_cv.pdf)
