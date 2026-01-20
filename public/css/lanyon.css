@@ -572,14 +572,13 @@ a.pagination-item:hover {
  */
 
 /* Less space between role title and bullets */
-.page > p,
-.post > p {
-  margin-bottom: 0.25rem;
+.page > p + ul,
+.post > p + ul {
+  margin-top: -0.75rem;
 }
 
 /* More space after each role's bullet list */
 .page > ul,
 .post > ul {
-  margin-top: 0;
   margin-bottom: 1.5rem;
 }

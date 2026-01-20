@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Erik Pettersson
 ---
 
 ## About
 
 <img src="/public/erik.jpg" alt="Erik Pettersson" class="profile-photo">
 
-I'm a backend engineer who's spent 16+ years building systems that need to actually work at scale. Early employee at [Tink](https://www.tink.com) where I helped grow the engineering team and led payments infrastructure. Shipped code at [Apple](https://www.apple.com). Built [Dreamwod](https://www.dreamwod.app) from scratch as a solo founder.
+I'm a fullstack engineer who's spent 16+ years building systems that need to actually work at scale. Early employee at [Tink](https://www.tink.com) where I helped grow the engineering team and led payments infrastructure. Shipped code at [Apple](https://www.apple.com). Built [Dreamwod](https://www.dreamwod.app) from scratch as a solo founder.
 
-I care most about the boring stuff - clean APIs, reliable data pipelines, systems that don't wake you up at 3am.
+I care about both ends: clean APIs and reliable infrastructure, but also the UX details that make products enjoyable to use.
 
-Based in Stockholm.
+I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow. Based in Stockholm.
 
 ## Experience
 
-**[Solva](https://www.solvatechnology.com)** - Founding AI Engineer *(Oct 2025 - Present)*
+**[Solva Technology](https://www.solvatechnology.com)** (YC S25) - Founding AI Engineer *(Oct 2025 - Jan 2026)*
 - First employee. Building the full stack - frontend, backend, infrastructure, security, and ML/AI pipelines.
 
 **Apple** - Senior Software Engineer, Consultant *(Oct 2022 - Apr 2024)*
