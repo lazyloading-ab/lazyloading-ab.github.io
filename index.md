@@ -17,7 +17,7 @@ I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow. Ba
 **[Solva Technology](https://www.solvatechnology.com)** (YC S25) - Founding AI Engineer *(Oct 2025 - Jan 2026)*
 - First employee. Building the full stack - frontend, backend, infrastructure, security, and ML/AI pipelines.
 
-**Apple** - Senior Software Engineer, Consultant *(Oct 2022 - Apr 2024)*
+**[Apple](https://www.apple.com)** - Senior Software Engineer, Consultant *(Oct 2022 - Apr 2024)*
 - 3D Vision team. Deployed and scaled backend services.
 
 **[Mendi](https://www.mendi.io)** - Interim Tech Lead *(Mar 2021 - Aug 2021)*
@@ -29,7 +29,7 @@ I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow. Ba
 **[Stravito](https://www.stravito.com)** - Tech Lead, Consultant *(Apr 2019 - Apr 2020)*
 - Technical leadership and backend development for research and knowledge SaaS platform.
 
-**Tink** - Various roles *(Dec 2014 - Apr 2019)*
+**[Tink](https://www.tink.com)** - Various roles *(Dec 2014 - Apr 2019)*
 - **Tech Lead - PFM** *(Jun 2018 - Apr 2019)* - Led the personal finance management team.
 - **Tech Lead - Payments** *(Oct 2018 - Mar 2019)* - Led the payments team and product.
 - **Backend Chapter Lead** *(Dec 2017 - Jun 2018)* - Led backend developers across teams.
@@ -40,21 +40,6 @@ I also do CrossFit, sail a Mamba 34, and cross country ski when there's snow. Ba
 
 **[Weightlifting Clinic](https://weightlifting-clinic.com)** - AI-powered personal weightlifting coaching prototype. Video analysis of olympic lifts using computer vision. Tech: Go, YOLO, Flutter.
 
-## Tech Stack
-
-* **Backend:** Go, Java, Kotlin
-* **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Elasticsearch
-* **Mobile:** Flutter
-* **Web:** React, Next.js
-* **Cloud:** AWS, GCP, Kubernetes, Terraform
-* **Other:** Kafka, ML/AI
-
-## Links
-
-* [Dreamwod Tech Blog](https://medium.com/dreamwod-tech)
-* [GitHub](https://github.com/eripe970)
-* [LinkedIn](https://www.linkedin.com/in/eripet/)
-
 ## Contact
 
-[erik@lazyloading.se](mailto:erik@lazyloading.se)
+[Email](mailto:erik@lazyloading.se) · [LinkedIn](https://www.linkedin.com/in/eripet/) · [GitHub](https://github.com/eripe970) · [Blog](https://medium.com/dreamwod-tech)
