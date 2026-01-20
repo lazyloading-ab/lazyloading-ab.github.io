@@ -1,0 +1,182 @@
+%-------------------------
+% Resume in LaTeX
+% Based on: https://github.com/sb2nov/resume
+%------------------------
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate PDF is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1 \vspace{-2pt}}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\item\small{\textbf{#1}{: #2 \vspace{-2pt}}}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\Large Erik Pettersson} & Email: \href{mailto:erik@lazyloading.se}{erik@lazyloading.se}\\
+  \href{https://www.lazyloading.se}{lazyloading.se} & Stockholm, Sweden \\
+  \href{https://www.linkedin.com/in/eripet/}{linkedin.com/in/eripet} & \href{https://github.com/eripe970}{github.com/eripe970} \\
+\end{tabular*}
+
+%-----------SUMMARY-----------------
+\section{Summary}
+Fullstack engineer with 16+ years building scalable systems. Recently designed AI workflows and pipelines at Solva (YC S25). Early employee at Tink (acquired by Visa for \$2.2B), shipped backend services handling billions of requests at Apple, built Dreamwod as a solo founder.
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Solva Technology (YC S25)}{Stockholm, Sweden}
+      {Founding Engineer}{Oct 2025 -- Jan 2026}
+      \resumeItemListStart
+        \resumeItem{Built the full product end-to-end: UX/UI, backend, infrastructure, and security.}
+        \resumeItem{Designed and implemented LLM-powered processing workflows for insurance claims automation.}
+        \resumeItem{Hands-on with modern LLM tooling including prompt engineering, evaluation, and reliability.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Apple}{Stockholm, Sweden}
+      {Senior Software Engineer (Consultant)}{Oct 2022 -- Apr 2024}
+      \resumeItemListStart
+        \resumeItem{Individual contributor on the 3D Vision team working with raster and elevation data.}
+        \resumeItem{Built, deployed, and scaled backend services in Go handling billions of requests.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Mendi}{Stockholm, Sweden}
+      {Interim Tech Lead}{Mar 2021 -- Aug 2021}
+      \resumeItemListStart
+        \resumeItem{Led mobile and backend development for brain health product. Managed team of 5 engineers.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Dreamwod}{Stockholm, Sweden}
+      {Founder \& Developer}{Nov 2020 -- Present}
+      \resumeItemListStart
+        \resumeItem{Solo founder. Designed and built the entire product from scratch -- mobile apps, web, backend, and infrastructure.}
+        \resumeItem{Used by gyms worldwide including CrossFit Munich, one of the largest CrossFit affiliates in Europe.}
+        \resumeItem{Authored technical blog with 10K+ upvotes on article "How I Built My Tech Startup as a Solo Developer".}
+        \resumeItem{Tech: Go, Flutter, React, Next.js, GCP}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Stravito}{Stockholm, Sweden}
+      {Tech Lead (Consultant)}{Apr 2019 -- Apr 2020}
+      \resumeItemListStart
+        \resumeItem{Technical leadership for architecture modernization of research and knowledge SaaS platform.}
+        \resumeItem{Converted single-tenant system to multi-tenant architecture. Introduced cloud-native services and scaling patterns.}
+        \resumeItem{Tech: Kotlin, Elasticsearch, Terraform, PostgreSQL, AWS}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Tink}{Stockholm, Sweden / Amsterdam, Netherlands}
+      {Various roles}{Dec 2014 -- Apr 2019}
+      \resumeItemListStart
+        \resumeItem{Early employee (one of first 10 engineers), \#4 all-time contributor. Tink acquired by Visa for \$2.2B in 2022.}
+        \resumeItem{\textbf{Tech Lead - PFM} (Jun 2018 -- Apr 2019): Led the personal finance management team.}
+        \resumeItem{\textbf{Tech Lead - Payments} (Oct 2018 -- Mar 2019): Led the payments team and product.}
+        \resumeItem{\textbf{Backend Chapter Lead} (Dec 2017 -- Jun 2018): Led backend developers across different teams.}
+        \resumeItem{\textbf{Forward Deployed Engineer at ABN AMRO} (Jan 2016 -- Dec 2017): Forward deployed to ABN AMRO, Tink's first B2B customer. Led the white-label integration that validated the company's pivot from B2C to B2B.}
+        \resumeItem{\textbf{Software Engineer} (Dec 2014 -- Jan 2016): Joined as one of the first engineers. Contributed to core platform development, product development, and reverse engineering bank integrations.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\section{Side Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Weightlifting Clinic}
+      {AI-powered personal weightlifting coaching prototype. Video analysis of olympic lifts using computer vision. Tech: Go, YOLO, Flutter.}
+  \resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Linköping University}{Linköping, Sweden}
+      {MSc(Eng), Computer Science and Engineering}{2004 -- 2009}
+  \resumeSubHeadingListEnd
+
+%--------SKILLS------------
+\section{Skills}
+ \begin{itemize}[leftmargin=*]
+    \small{\item{
+     \textbf{Languages}{: Go, Java, Kotlin, TypeScript} \\
+     \textbf{Backend}{: REST APIs, Microservices, Kafka, PostgreSQL, MySQL, MongoDB, Cassandra, Elasticsearch} \\
+     \textbf{Frontend/Mobile}{: React, Next.js, Flutter} \\
+     \textbf{Cloud}{: AWS, GCP, Kubernetes, Terraform} \\
+     \textbf{Other}{: ML/AI, LLMs, Signal Processing}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}
